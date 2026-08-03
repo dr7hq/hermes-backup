@@ -1,0 +1,5 @@
+User interests: SVG code animation, OpenCode, Claude Code for free AI coding. Plans to build an app later (no coding knowledge yet). Likes learning new tech terms (harness, prompt injection, etc). Use technical terms + explain them when used.
+§
+User owns Telegram channel 'cacti_vibe'. User prefers efficient, technical, and direct communication. User is interested in building an app and learning technical terms (harness, prompt injection, etc.). User prefers not to have bot messages forwarded to their DM unless requested. User prefers 'web scraping' for reading public channels over bot-admin requirements.
+§
+User's main and vital use case is YouTube video summarization. Also uses: @registery_shah_bot (registration), @apicreator_shah_bot (API creator). Has personal website at /data/workspace/website/index.html. Likes anime Kingdom (キングダーム). Prefers nicknames that balance Japanese/Chinese with Persian (not too English, not too Japanese). Full name: شاهرخ مکران دوست, Username: @Shahrokh_md7.
