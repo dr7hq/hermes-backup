@@ -1,0 +1,11 @@
+User: شاهرخ / ShahrokhVanguard. Telegram ID: 8848298889. Speaks Persian. Deploys on Railway (434MB volume). Admin of "AI Advanced" (chat_id: -1003957762420). Main use: YouTube summarization (CRITICAL). Likes anime Kingdom. Prefers technical terms with explanations. Chose symbolic nickname "ShahrokhVanguard" (Vanguard = پیشگام). Prefers descriptive/clear bot names (like "اطلاعات ویدئو و لینک") over creative ones.
+§
+• Bots: @videoshahbot (8633608471, AI summarizer), @registery_shah_bot (8764386032, registration), @apicreator_shah_bot (8794578131, API creator). Channel: @shahrokhVanguard. Website: https://2bshg4l.github.io/shahrokh-vanguard.github.io/ (GitHub: 2bshg4l). OpenRouter key: sk-or-v1-...ccba (no credits — free models only). Best free: nvidia/nemotron-3-ultra-550b-a55b:free, nvidia/nemotron-3-super-120b-a12b:free. Gemini 3.1 Flash Lite (paid) for Vision summarization. Backup repo: dr7hq/hermes-backup. Bot name: "اطلاعات لینک". Features wanted: inline buttons for Translate/Persian, Download file, Copy.
+§
+PITFALL: Railway /data = 434MB only. Clean .npm/_cacache, .cache, /tmp often. npm install fails with ENOSPC. Use Python packages over npm. Cloudflare blocked — use free alternatives like Gemini API.
+§
+Work style: Efficient, no unnecessary actions. Use web scraping for public channels. User frustrated by repeated failures — test before reporting. Prefers thoroughness over speed ("به اندازه کافی وقت داری نیازی به سریع جواب دادن نیست"). Prefers single-shot scripts for multi-step auth flows.
+§
+• GitHub backup: repo `dr7hq/hermes-backup` with token `ghp_LYbb...`. Cron job `a56c3b761601` runs every 12h. Backup script at `~/.hermes/scripts/hermes_backup.sh`. Covers: memories, config, bots, website, databases, logo.
+§
+• API Keys: Gemini direct (AQ.Ab8...Gemini-2.0-flash works but quota limits), OpenRouter (sk-or-v1-...ccba, no credits, only free models: Nemotron 3 Ultra/Super). OpenRouter Gemini models require credits. Use direct Gemini API for Gemini features, OpenRouter free models as fallback.
