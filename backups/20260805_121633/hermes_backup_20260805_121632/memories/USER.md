@@ -1,0 +1,5 @@
+User: شاهرخ / ShahrokhVanguard (Telegram ID: 8848298889). Main use: YouTube summarization (CRITICAL). 3 bots: @videoshahbot, @registery_shah_bot, @apicreator_shah_bot. Channel: @shahrokhVanguard. GitHub: 2bshg4l. OpenRouter: no credits (free models only). Best free: nemotron-3-ultra-550b-a55b:free, nemotron-3-super-120b-a12b:free. Gemini 3.1 Flash Lite (paid) for Vision.
+§
+Deployed on Railway (434MB). Clean .npm/_cacache, .cache, /tmp often. npm install fails with ENOSPC. Use Python over npm. Cloudflare blocked — use free alternatives like Gemini API.
+§
+Wants inline buttons: 🔄 translate, 📄 download, 📋 copy. Prefers user choice over auto-translation. 'ولش کن مهم اینه کار میکنه' — prioritize working functionality. Multiple friends testing @videoshahbot — reliability matters. Message splitting unreliable for Persian text — use truncation + download file button instead.
