@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6c5ce7"/>
+      <stop offset="100%" style="stop-color:#a29bfe"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f9ca24"/>
+      <stop offset="100%" style="stop-color:#f0932b"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="512" height="512" rx="100" fill="url(#bg)"/>
+  
+  <!-- Outer ring -->
+  <circle cx="256" cy="256" r="200" fill="none" stroke="url(#accent)" stroke-width="4" opacity="0.3"/>
+  
+  <!-- Inner decorative circle -->
+  <circle cx="256" cy="256" r="160" fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.2"/>
+  
+  <!-- Shield shape -->
+  <path d="M256 80 L380 140 L380 280 Q380 380 256 440 Q132 380 132 280 L132 140 Z" 
+        fill="none" stroke="url(#accent)" stroke-width="4" opacity="0.8"/>
+  
+  <!-- Inner shield -->
+  <path d="M256 110 L350 160 L350 270 Q350 350 256 400 Q162 350 162 270 L162 160 Z" 
+        fill="url(#accent)" opacity="0.15"/>
+  
+  <!-- V letter (Vanguard) -->
+  <text x="256" y="300" font-family="Arial, sans-serif" font-size="180" font-weight="900" 
+        fill="url(#accent)" text-anchor="middle" opacity="0.9">V</text>
+  
+  <!-- Lightning bolt accent -->
+  <path d="M280 120 L240 220 L270 220 L230 340 L310 200 L275 200 Z" 
+        fill="url(#gold)" opacity="0.8"/>
+  
+  <!-- Top decorative dots -->
+  <circle cx="256" cy="60" r="6" fill="url(#accent)"/>
+  <circle cx="200" cy="80" r="4" fill="url(#accent)" opacity="0.6"/>
+  <circle cx="312" cy="80" r="4" fill="url(#accent)" opacity="0.6"/>
+  
+  <!-- Bottom text area -->
+  <text x="256" y="480" font-family="Arial, sans-serif" font-size="28" font-weight="700" 
+        fill="url(#accent)" text-anchor="middle" letter-spacing="8">SHAHROKH</text>
+</svg>
