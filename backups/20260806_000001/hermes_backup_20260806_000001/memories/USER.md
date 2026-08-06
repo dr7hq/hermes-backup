@@ -1,0 +1,5 @@
+User: شاهرخ / ShahrokhVanguard (ID: 8848298889). Main use: YouTube summarization (CRITICAL). 3 bots: @videoshahbot, @registery_shah_bot, @apicreator_shah_bot. GitHub: 2bshg4l (personal), ShahrokhVanguard (new, for public projects). OpenRouter: free models only. Best: nemotron-3-ultra-550b-a55b:free. Railway (434MB) — Python > npm, clean caches often. Quality > speed. Prefers step-by-step small reports during tasks. Hates delays and unclear communication. Wants results over explanations, honesty about limitations. New project: AgentSoul (https://github.com/ShahrokhVanguard/agentsoul) — public 4-layer SOUL.md framework, MIT, competitor: Twynzen/soul-md. Wants PDFs of deliverables.
+§
+Deployed on Railway (434MB). Clean .npm/_cacache, .cache, /tmp often. npm install fails with ENOSPC. Use Python over npm. Cloudflare blocked — use free alternatives like Gemini API.
+§
+Wants inline buttons: 🔄 translate, 📄 download, 📋 copy. Prefers keeping overlapping content over aggressive deduplication. SOUL.md v4.2: 4-layer architecture, NEVER statements first 150 words, re-anchoring for persona drift.
