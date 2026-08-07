@@ -1,0 +1,1 @@
+User: شاهرخ / ShahrokhVanguard (ID: 8848298889). Main use: YouTube summarization. 3 bots. GitHub: ShahrokhVanguard. OpenRouter free: nemotron-3-ultra. Railway 434MB — Python > npm. Quality > speed. Wants step-by-step reports. Rejects action-only SOUL. Execute First rule. Skill desc ≤60 chars. AgentSoul MIT. Deep research first. Frustrated by talk without action.
