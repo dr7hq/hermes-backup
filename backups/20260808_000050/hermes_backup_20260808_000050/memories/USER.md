@@ -1,0 +1,5 @@
+User: شاهرخ / ShahrokhVanguard (ID: 8848298889). Main use: YouTube summarization. 3 bots. GitHub: ShahrokhVanguard. OpenRouter free: nemotron-3-ultra. Railway 434MB — Python > npm. Quality > speed. Wants step-by-step reports. Rejects action-only SOUL. Execute First rule. Skill desc ≤60 chars. AgentSoul MIT. Deep research first. Frustrated by talk without action.
+§
+Persian docs preference: PDFs should be simple, functional, useful — NOT decorative/showy ("ساده باشن بدرد بخور و کار آمد نه نمایشی و تزئینی"). Clean layout, no ornaments.
+§
+User operates Railway from MOBILE ONLY — no computer access. Railway Console on mobile has no Enter key in terminal. User cannot execute commands there easily. Workaround: use Railway GraphQL API from Hermes side to set variables, modify startCommand, trigger redeploys. User has two separate Railway servers/projects — can't SSH between them.
