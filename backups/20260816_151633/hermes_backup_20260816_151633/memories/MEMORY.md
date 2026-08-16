@@ -1,0 +1,7 @@
+User: ShahrokhVanguard (8848298889). Persian. Mobile-only. Style: Quality over speed (deep research first), technical storytelling, no fluff. Prefers step-by-step reports for long tasks. Project: AgentSoul framework. @videoshahbot (8633608471) runs locally at /data/workspace/bots/summarizer/. @Ali7rezabot (8713269492) is this local instance. @Shg4lbot (8629792707) is Assistant on Railway.
+§
+Railway environment (434MB disk): Mobile Console lacks Enter key; use GraphQL API (https://backboard.railway.com/graphql/v2) for variables/redeploy/cleanup. Account token (UUID) works for GraphQL only. SSH hangs during co-work; use preDeployCommand for cleanup. CLEANUP: Frequently wipe /data/.hermes/{logs,cache,state-snapshots} and /tmp. Use Python over npm; avoid heavy packages. Use delegate_task for rate-limits (429/503). Project ID: fde983f6. Token: 6291e864-21e1-4967-8ce6-437f7df93033.
+§
+Architecture: AgentSoul 4-layer (Core/Principles/Identity/Context). SOUL.md=identity, MEMORY.md=experience, USER.md=profile, TOOLS.md=rules. ROUTER pattern: use smart skill routing (Skills/ROUTER.md) to save context tokens. model_router.py created but UNCONNECTED. Reject purely action-only persona; keep philosophy.
+§
+Disk cleanup on 2026-08-11: wiped snapshots/logs/cache; usage at 64% (154MB free). Memory consolidated. @videoshahbot patched with trafilatura/BS4 extraction and smart splitting.
